@@ -1,0 +1,5 @@
+Please report bugs to 6to4@buildingtents.com
+
+Version 1.61:
+	Scans for pasted crashed instances
+	Fixes bugs in user running more than 1 scan at once

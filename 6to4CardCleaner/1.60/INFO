@@ -1,0 +1,7 @@
+Version 1.60:
+	Fixed crash if program ran and closed mid-removal, then opened and run again
+	Now if removal in progress and program closed, it goes to system tray
+	Scans for components already running from earlier instance
+	Maybe progress bar fixed
+	Updated internals
+	Various other fixes

@@ -1,0 +1,16 @@
+Second Public Release(1.43):
+	Extracts proper tools
+       *Checks for IPv6
+	Scans for Cards
+	Removes Cards
+       *Allows User to set IPv6 setting
+       *Runs Microsoft KB article 980486
+       *Automatic Updating
+       *Verbose Mode
+       *New Icon
+       *Higher Version Number
+       *Interface Text Changed
+       *Save dialog fixed
+       *Autoupdater fixed
+
+BUG: Output slow
